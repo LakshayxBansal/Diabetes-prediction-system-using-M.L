@@ -23,7 +23,7 @@ The project was developed using python 3.8.3 with the following packages.
 Installation with pip:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Getting Started
